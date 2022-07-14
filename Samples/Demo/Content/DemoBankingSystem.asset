@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3ec28af9e5f484cb073b6c423c6d22b, type: 3}
+  m_Name: DemoBankingSystem
+  m_EditorClassIdentifier: 
+  _Hash:
+    Value:
+      x: 1684790214
+      y: 1116200317
+      z: 2810469509
+      w: 3558841410
+  bankingSystem:
+    account:
+      cardTagIdentifier: {fileID: 629632624949167680, guid: 17bcfda160fcc5f4584c568f72c4c39c, type: 2}
+      bankCards:
+      - currencyAmount:
+          amount: 0
+          currencyType: {fileID: 9146215542285502716, guid: 55ebbe4287f9d4346b3488a17c197e70, type: 2}
+      - currencyAmount:
+          amount: 0
+          currencyType: {fileID: -7491569805634625237, guid: e86fbc256ead85e42a772dafe8cc82fb, type: 2}
+      - currencyAmount:
+          amount: 0
+          currencyType: {fileID: 2757318653174004304, guid: fe388cf0cba01074e9e7dde3d4aabcda, type: 2}
+      - currencyAmount:
+          amount: 0
+          currencyType: {fileID: 2628469259116435548, guid: fe388cf0cba01074e9e7dde3d4aabcda, type: 2}

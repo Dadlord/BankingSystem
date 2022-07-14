@@ -1,0 +1,8 @@
+{
+	"name" : "com.ironwill.bankingsystem",
+	"displayName" : "Banking System",
+	"version": "1.0.0",
+	"description": "System that is responsible for currencies income accumulation and withdraw",
+	"unity": "2020.1",
+	"author": "Roman Shkirenko"
+}
